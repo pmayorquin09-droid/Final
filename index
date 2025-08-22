@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Environment Design</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Designing Digital Environments</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Systems Design, Engineering, and Organization</h2>
+      <p>
+        When considering the ideas of systems design, engineering, and organization, I would focus on simplicity in design, stability and performance in engineering, and data integration in organization. These aspects ensure that systems are reliable, adaptable, and usable by more people.
+      </p>
+      <p>
+        Simplicity addresses problems with legibility, maintainability, and reliability (Connolly, 2025). Stability and performance address growth, adaptability, and cost-effectiveness (Toro, 2025). Data integration allows data from various sources to combine into a unified flow (LUMENALTA, n.d.).
+      </p>
+    </section>
+
+    <section>
+      <h2>Content and Information Architecture</h2>
+      <p>
+        In developing a digital environment, I would focus on User-Centered Design and Content Relationships. These approaches ensure a better user experience by understanding needs and prioritizing content.
+      </p>
+      <p>
+        User-Centered Design considers context and goals (Clay, 2025), while Content Relationships define how content pieces relate, creating a cohesive structure (Kaley, 2024).
+      </p>
+    </section>
+
+    <section>
+      <h2>User Experience and Visual Design</h2>
+      <p>
+        Accessibility and inclusivity are crucial for designing environments usable by all, enhancing the experience for everyone (NCDPI, 2024).  
+        Aesthetic considerations ensure uncluttered interfaces, improving usability and focus (Livingston, n.d.).
+      </p>
+    </section>
+
+    <section>
+      <h2>Bias in Development</h2>
+      <p>
+        Data collection methods play a critical role in reducing bias. Drawing from diverse sources prevents skewed outcomes and ensures reliability. For example, relying solely on digital sources can introduce bias (Lieu et al., 2020).
+      </p>
+    </section>
+
+    <section class="works-cited">
+      <h2>Works Cited</h2>
+      <ul>
+        <li>Clay. (2025, May 7). <i>UX information architecture: Guide & examples</i>. https://clay.global/blog/information-architecture</li>
+        <li>Connolly, E. (2025, January 3). Six principles of system design. <i>The Intercom Blog</i>. https://www.intercom.com/blog/six-principles-of-system-design/</li>
+        <li>Kaley, A. (2024, January 30). Content inventory and auditing 101. <i>Nielsen Norman Group</i>. https://www.nngroup.com/articles/content-audits/</li>
+        <li>Lieu, C., Leader, T., Carole, C., & Team. (2020, October 13). How can digital data collection lead you and your project to success?. <i>Stantec</i>. https://www.stantec.com/en/ideas/topic/innovation-technology/how-can-digital-data-collection-lead-you-and-your-project-to-success</li>
+        <li>Livingston, L. (n.d.). Why aesthetics are important in digital experience design. <i>Valtech</i>. https://www.valtech.com/blog/why-aesthetics-are-important-in-digital-experience-design/</li>
+        <li>LUMENALTA. (n.d.). What is data integration? A guide to processes and benefits. <i>Lumenalta</i>. https://lumenalta.com/insights/what-is-data-integration-a-guide-to-processes-techniques-and-benefits</li>
+        <li>NCDPI. (2024, May 28). Introduction to digital accessibility. <i>North Carolina Department of Public Instruction</i>. https://www.dpi.nc.gov/about-dpi/technology-services/digital-accessibility/introduction-digital-accessibility</li>
+        <li>Toro, A. (2025, May 28). Software scalability: Why is it important? <i>SMOWL Proctoring</i>. https://smowl.net/en/blog/software-scalability/</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Digital Environments Project</p>
+  </footer>
+</body>
+</html>
